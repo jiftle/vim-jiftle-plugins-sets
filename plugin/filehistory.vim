@@ -21,3 +21,4 @@ endif
 
 " 设置你的undo保存位置，你需要先 mkdir ~/.vim/undodir
 let undodir = UndoDir
+execute "set undodir=~/.vim/undodir"

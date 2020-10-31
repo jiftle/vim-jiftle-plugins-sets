@@ -17,3 +17,5 @@ vim plugin set,contain some useful plugin for me.
     - 增加插件说明
 - 2020-10-24
     - 修改viml脚本，自动创建undo目录
+- 2020-10-31
+    - 路径Bug修复
